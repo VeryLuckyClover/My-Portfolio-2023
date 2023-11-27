@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Pack n Pedal",
+    "imageSrc": "projects/packnpedal.png",
+    "description": "This was a UX research project I did. I used Figma, React and Sass to code it.",
+    "skills": ["React", "Figma", "Sass"],
+    "about": "https://www.behance.net/gallery/183700317/Website-Redesign",
+    "source": "https://www.behance.net/gallery/183700317/Website-Redesign"
+  },
+  {
+    "title": "Neo Cafe",
+    "imageSrc": "projects/neocafe.png",
+    "description": "This was a application I built for a cafe menu using the UX process.",
+    "skills": ["React", "Figma", "Node", "Sass"],
+    "about": "https://www.behance.net/gallery/183784167/Cafe-Application?tracking_source=search_projects&l=0",
+    "source": "https://www.behance.net/gallery/183784167/Cafe-Application?tracking_source=search_projects&l=0"
+  },
+  {
+    "title": "Tourism NZ",
+    "imageSrc": "projects/tourismnz.png",
+    "description": "This was an accommodation website I built with the UX process.",
+    "skills": ["React", "Sass", "Node", "Figma"],
+    "about": "https://www.behance.net/gallery/183699191/Accomodation-Application?tracking_source=search_projects&l=3",
+    "source": "https://www.behance.net/gallery/183699191/Accomodation-Application?tracking_source=search_projects&l=3"
+  },
+  {
+    "title": "Manawa Ora",
+    "imageSrc": "projects/manawa.png",
+    "description": "This was a full stack project I built using wordpress.",
+    "skills": ["React", "Sass", "Wordpress", "Figma"],
+    "about": "https://www.behance.net/gallery/185335395/My-Full-Stack-Application",
+    "source": "https://www.github.com"
+  }
+]
